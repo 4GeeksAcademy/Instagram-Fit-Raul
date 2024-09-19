@@ -1,0 +1,28 @@
+h1{
+    margin: auto;
+    width: 33%;
+}
+.container{
+    background-color: grey;
+    padding-top: 50px;
+}
+.post{
+    margin: auto;
+    width: 50%;
+    background-color: white;
+    margin-bottom: 50px;
+}
+.encabezado{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 25px;
+}
+img{
+width: 100%;
+height: 500px;
+}
+p{
+    padding: 10px;
+    font-size: 25px;
+}
